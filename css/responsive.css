@@ -1,0 +1,688 @@
+@media (max-width: 1540px){
+    .header-right button{
+        width: 130px;
+        margin-left: -50px;
+    }
+
+    .header-left {
+        margin-left: 50px;
+        box-sizing: border-box;
+    }
+
+    .header-center {
+        width: 55%;
+    }
+
+
+    .video-banner-area {
+        box-sizing: border-box;
+        padding: 0px 30px;
+    }
+
+    .video-banner-right h1 {
+        font-size: 40px;
+        box-sizing: border-box;
+        margin-left: 20px;
+    }
+    .video-banner-right p {
+        font-size: 20px;
+        
+        box-sizing: border-box;
+        margin-left: 20px;
+    }
+
+    .box-all {
+        padding: 0px 30px;
+    }
+
+    .price-tb-box {
+        box-sizing: border-box;
+        padding: 0px 20px;
+    }
+
+    .team-area-parson {
+        box-sizing: border-box;
+        padding: 0px 20px;
+    }
+
+    .newlater-content{
+        box-sizing: border-box;
+        padding: 0px 20px;
+
+    }
+}
+
+
+
+@media (max-width: 1200px) {
+    .mid-content{
+       width: 100%;
+       box-sizing: border-box;
+        /* padding: 0px 30px; */
+       padding-left: 20px;
+       padding-right: 20px;
+    }
+
+    .header-center {
+        width: 50%;
+    }
+
+
+    .header-left {
+        margin-left: -10px;
+    }
+
+    .header-right{
+        margin-right: 10px;
+    }
+    .header-right button {
+        width: 130px;
+        margin-left: 0px;
+    }
+
+    .video-banner-left iframe{
+        width: 550px;
+        height: 300px;
+    }
+
+    .video-banner-right h1 {
+        font-size: 30px;
+    }
+
+    .video-banner-right p {
+        font-size: 16px;
+        line-height: 1.5em;
+        box-sizing: border-box;
+        margin-left: 20px;
+        
+    }
+
+    .price-tb-top h3 {
+        font-size: 20px;
+    }
+    .box-text-area h1 {
+        font-size: 54px;
+    }
+    .price-tb-top h1 {
+        font-size: 40px;
+    }
+    .price-tb-top h1 span {
+        font-size: 20px;
+    }
+    .price-tb-top h4 {
+        font-size: 18px;
+    }
+    .price-tb-top h5 {
+        font-size: 16px;
+    }
+    .price-tb-midel ul li {
+        font-size: 18px;
+    }
+    .price-tb-midel ul li span {
+        font-size: 25px;
+    }
+    .price-tb-buttom button {
+        font-size: 16px;
+        padding: 16px 70px;
+    }
+
+    .comh {
+        font-size: 45px;
+    }
+
+    .team-chils h2 {
+        font-size: 24px;
+    }
+
+    .team-chils span {
+        font-size: 18px;
+    }
+
+    .newslater-info h1 {
+        font-size: 40px;
+    }
+
+    .newslater-info p {
+        font-size: 18px;
+    }
+
+    .newslater-childbox-text p {
+        font-size: 18px;
+    }
+    .feedback-info h1 {
+        font-size: 40px;
+    }
+
+    .feedback-user {
+        margin: 0 20px;
+    }
+
+    .user-img-box {
+        left: 45px;
+    }
+
+    .user-text p {
+        font-size: 18px;
+        line-height: 1.4em;
+    }
+
+    .contact-form-text p {
+        font-size: 18px;
+    }
+
+    .contact-info > div {
+        flex-basis: 46%;
+    }
+
+    
+}
+
+@media (max-width: 1186px) {
+       .contact-map iframe {
+        width: 400px;
+        height: 700px;
+    }
+
+    .contact-info > div {
+        box-sizing: border-box;
+        padding: 0px 30px;
+    }
+}
+
+@media (max-width: 992px) {
+    .header-left {
+        width: 100%;
+        text-align: center;
+    }
+
+    .header-right {
+        position: relative;
+        right: -35%;
+    }
+
+    .slider-text-area h1 {
+        font-size: 45px;
+    }
+
+    .slider-text-area h3 {
+        font-size: 22px;
+        padding: 10px 0;
+    }
+
+    .amp-btn {
+        padding: 14px 34px;
+        font-size: 15px;
+    }
+
+    .wth {
+        width: 175px;
+    }
+
+
+    .video-banner-left iframe{
+        width: 500px;
+        height: 260px;
+    }
+
+    .video-banner-right h1 {
+        font-size: 25px;
+    }
+
+    .video-banner-right p {
+        font-size: 14px;
+        line-height: 1.7em;
+    }
+
+    .video-banner-left iframe{
+        width: 400px;
+        height: 230px;
+    }
+
+    .video-banner-right h1 {
+        font-size: 25px;
+    }
+
+    .video-banner-right p {
+        font-size: 14px;
+        line-height: 1.3em;
+    }
+
+    .box-text-area h1 {
+        font-size: 45px;
+    }
+    .box-item > div {
+        flex-basis: 48.5%;
+    }
+
+    .header-right {
+        position: relative;
+        right: -30%;
+    }
+    .price-tb-box {
+        flex-direction: column;
+    }
+
+    .team-area-parson {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    .team-area-parson > div {
+        flex-basis: 46%;
+        margin-bottom: 30px;
+    }
+
+    .newsletter-info h1 {
+        font-size: 40px !important;
+    }
+
+    .newsletter-info p {
+        padding-bottom: 30px !important;
+    }
+
+    .newslater-info h1 {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .newslater-info p {
+        font-size: 16px;
+    }
+
+    .newslater-childbox-text h3 {
+        font-size: 18px;
+    }
+
+    .newslater-childbox-text p {
+        font-size: 16px;
+    }
+
+    .newslater-info {
+        display: flex;
+        justify-content: space-between;
+        padding-bottom: 70px;
+        flex-wrap: wrap;
+    }
+
+    .newslater-info > div {
+        flex-basis: 80%;
+    }
+
+    .newslater-info h1 {
+        font-size: 40px;
+        text-align: left;
+    }
+
+    .user-img-box {
+        left: 10px;
+    }
+
+    .user-info h3 {
+        font-size: 14px;
+    }
+
+    .user-text p {
+        padding: 18px 25px;
+        font-size: 15px;
+        line-height: 1.5em;}
+
+
+        .contact-info {
+            display: flex;
+            justify-content: space-between;
+            flex-direction: column;
+            text-align: center;
+        }
+
+        .contact-map iframe {
+            width: 600px;
+            height: 800px;
+        }
+
+        .contact-form {
+            width: 80%;
+            margin: 0px 70px;
+        }
+
+        /* .price-tb-box {
+            margin: 0px 150px;
+        }
+
+        .price-tb-childbox{
+            margin-bottom: 30px;
+        } */
+        
+        .price-tb-box {
+            flex-direction: row;
+            flex-wrap: wrap;
+        }
+
+        .price-tb-box > div {
+            flex-basis: 46.5%;
+            margin-bottom: 30px;
+        }
+
+}
+
+
+@media (max-width: 768px) {
+ 
+    .primary-menu ul li a {
+        font-size: 14px;
+        padding: 25px 10px;
+    }
+
+    .header-right {
+        position: relative;
+        right: -30%;
+    }
+
+    .video-banner-left iframe{
+        width: 300px;
+        height: 180px;
+    }
+
+    .video-banner-right h1 {
+        font-size: 18px;
+        margin-top: -20px;
+    }
+
+    .video-banner-right p {
+        font-size: 14px;
+        line-height: 1.3em;
+        margin-top: -20px;
+        
+    }
+
+    .box-text-area h1 {
+        font-size: 35px;
+    }
+    .box-text-area p {
+        font-size: 22px;
+    }
+
+    .box-item > div {
+        flex-basis: 48.5%;
+    }
+
+    .box-child-left span {
+        font-size: 35px;
+    }
+    
+    .box-child-right h3 {
+        font-size: 20px;
+    }
+    
+    .box-child-right p {
+        font-size: 18px;
+    }
+
+
+    .slider-text-area {
+        padding: 0px 0;
+    }
+
+    .header-center {
+        width: 60%;
+    }
+
+    .header-right {
+        position: relative;
+        right: -15%;
+    }
+
+    .comh {
+        font-size: 45px;
+    }
+
+    .comp {
+        font-size: 18px;
+    }
+
+    .comh {
+        font-size: 30px;
+    }
+
+    .myinput {
+        margin-bottom: 25px;
+    }
+
+    .newslater-box {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    .newslater-box > div {
+        flex-basis: 100%;
+        margin-bottom: 20px;
+    }
+
+
+    .feedback-user {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        }
+    
+        .feedback-user > div {
+            flex-basis: 47%;
+            margin-bottom: 20px;
+        }
+    
+        .feedback-info h1 {
+            font-size: 32px;
+        }
+        .user-text p {
+            padding: 43px 30px;
+            font-size: 17px;
+            line-height: 1.8em;
+        }
+
+        .nameinput, .phoneinput {
+            width: 100%;
+        }
+
+        .contact-form {
+            width: 80%;
+            margin: 0px 30px;
+        }
+
+        .contact-map iframe {
+            width: 400px;
+            height: 500px;
+        }
+
+        .price-tb-box {
+            flex-direction: column;
+            margin: 0px 150px;
+        }
+
+        .price-tb-childbox{
+            margin-bottom: 30px;
+        }
+
+
+}
+
+@media (max-width: 600px) {
+
+    .munu-area {
+        position: static;
+    }
+
+    .header-center {
+        width: 100%;
+    }
+
+    .primary-menu ul {
+        text-align: center;
+    }
+
+    .primary-menu ul li a {
+        font-size: 14px;
+    }
+
+    .primary-menu ul li a {
+        font-size: 16px;
+        padding: 25px 10px;
+    }
+    .header-right {
+        position: relative;
+        right: -50%;
+    }
+
+    /* .slider-text-area h3 {
+        margin-top: 50px;
+        font-size: 20px;
+    } */
+
+    /* .slider-text-area h3 {
+        margin-top: -105px;
+    } */
+    .slider-text-area h3 {
+        margin-top: -70px;
+    }
+
+    .slider-text-area h1 {
+        font-size: 35px;
+        padding: 16px 0;
+    }
+
+    .slider {
+        padding-top: 120px;
+        padding-bottom: 25px;
+    }
+    .amp-btn {
+        display: block;
+        margin: auto;
+            margin-bottom: auto;
+        margin-bottom: 15px;
+    }
+
+
+    .video-banner-left{
+        display: block;
+        width: 100%;
+    }
+
+    .video-banner-area-info {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .video-banner-left {
+        margin-bottom: 35px;
+    }
+    .slider-area {
+        margin: auto;
+    }
+
+    .slider-text-area h3 {
+        margin-top: 120px;
+    }
+
+    /* .box-child-right p {
+        font-size: 18px;
+        line-height: 1.3;
+    }
+
+    .box-child-right h3 {
+        font-size: 18px;
+    }
+
+    .box-child-left span {
+        font-size: 30px;
+    } */
+    .box-item > div {
+        flex-basis: 100%;
+    }
+
+    .box-item {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin: 0px 100px;
+    }
+
+    .box-text-area h1 {
+        font-size: 25px;
+    }
+
+    .box-text-area p {
+        font-size: 18px;
+    }
+    .header-right button {
+        margin-left: -60px;
+    }
+
+    .slider {
+        padding-top: 0px;
+        padding-bottom: 6px;
+    }
+
+    .slider-text-area h1 {
+        font-size: 30px;
+    }
+
+    .slider-text-area h3 {
+        font-size: 18px;
+    }
+
+    .slider-area {
+        margin-top: -120px;
+    }
+
+    .comh {
+        font-size: 35px;
+    }
+    .team-area-parson > div {
+        flex-basis: 100%;
+    }
+
+    .newsletter-info h1 {
+        font-size: 30px !important;
+    }
+
+    .myinput {
+        margin-bottom: 25px;
+    }
+
+    .price-tb-box {
+        margin: 0px 60px;
+    }
+
+    .price-tb-box > div {
+        margin-bottom: 20px;
+    }
+
+    .feedback-user {
+        flex-direction: column;
+        margin: 0 90px;
+    }
+
+    .user-img-box {
+        left: 100px;
+    }
+
+    .foterinfo p {
+        font-size: 18px;
+    }
+
+}
+
+@media (max-width: 500px) {
+    .primary-menu ul li ul li a {
+        text-align: left;
+    }
+    
+    
+    .primary-menu ul li a {
+        font-size: 12px;
+        padding: 25px 8px;
+        
+    }
+
+
+}
